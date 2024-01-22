@@ -2,6 +2,8 @@
 
 Tailwind CSS Landing Page
 
+<img width="1440" alt="Screenshot 2024-01-22 at 1 33 20 PM" src="https://github.com/vishu-bhandari/Tailwind-CSS-Landing-Page/assets/130288269/afea3efd-95ce-4cfe-8dad-7fb53260c0b8">
+
 # Description:
 
 Elevate your web development endeavors with this meticulously crafted landing page, meticulously designed using Tailwind CSS in conjunction with vanilla HTML. The project serves as a testament to the seamless synergy between modern design principles and the utility-first approach of Tailwind CSS.
